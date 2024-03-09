@@ -1,9 +1,9 @@
-import img1 from "../images/tour-1.jpeg"
-import img2 from "../images/tour-2.jpeg"
-import img3 from "../images/tour-3.jpeg"
-import img4 from "../images/tour-4.jpeg"
-import img5 from "../images/tour-5.jpeg"
-import img6 from "../images/rtr.jpg"
+import img1 from "../images/a1.jpg"
+import img2 from "../images/a2.jpg"
+import img3 from "../images/a3.jpg"
+import img4 from "../images/a4.jpg"
+import img5 from "../images/a5.jpg"
+import img6 from "../images/Tulip-Wallpaper-Desktop.jpg"
 
 export const navLinks = [
 {id: 1, text: 'home', link: '#home'},
@@ -76,16 +76,16 @@ export const tours = [
         date: "august 26th, 2020", 
         title: "Paris highlights", 
         details: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.", 
-        location: "pahi", 
+        location: "Paris", 
         duration: "1 days", 
         cost: "$3100"},
 
         {id: 6, 
         image: img6, 
         date: "august 26th, 2020", 
-        title: "Ukraine highlights", 
+        title: "Brazil highlights", 
         details: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.", 
-        location: "Ukraine", 
-        duration: "62 days", 
-        cost: "11100"},
+        location: "Brazil", 
+        duration: "6 days", 
+        cost: "1100"},
 ]

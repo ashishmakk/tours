@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutImg from '../images/about.jpeg'
+import aboutImg from '../images/tt.jpg'
 import Title from './Title'
 
 const About = () => {
