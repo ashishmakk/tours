@@ -10,8 +10,6 @@ export const navLinks = [
 {id: 2, text: 'about', link: '#about'},
 {id: 3, text: 'services', link: '#services'},
 {id: 4, text: 'tours', link: '#tours'},
-{id: 4, text: 'tours', link: '#tours'},
-{id: 4, text: 'tours', link: '#tours'},
 ]
 
 export const services = [
